@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+In review of the Horiseon, the search engine optimization heading at the top was inactive. Activated the link by adding <div id="search-engine-optimization" class = "search-engine-optimization">
