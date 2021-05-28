@@ -102,8 +102,6 @@ The following code was removed:
     margin: 10px auto;
     max-width: 150px;
 }
-green
-
 
 .benefit-cost img {
     display: block;
@@ -115,4 +113,4 @@ The code was consolidated into the following code:
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} red
