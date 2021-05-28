@@ -102,6 +102,7 @@ The following code was removed:
     margin: 10px auto;
     max-width: 150px;
 }
+green
 
 
 .benefit-cost img {
