@@ -115,3 +115,4 @@ The code was consolidated into the following code:
     max-width: 150px;
 } 
 added accessibility to the images utilizing alt.
+added <hn> to increase accessibility and finability
