@@ -139,8 +139,3 @@ after relocation the new code reads:
     margin-left: 25px;
     list-style-type: none;
 }
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
