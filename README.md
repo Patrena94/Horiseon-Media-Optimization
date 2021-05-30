@@ -139,3 +139,5 @@ after relocation the new code reads:
     margin-left: 25px;
     list-style-type: none;
 }
+organized the flow of the style.css
+checked accessibility
