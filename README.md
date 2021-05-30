@@ -115,4 +115,32 @@ The code was consolidated into the following code:
     max-width: 150px;
 } 
 added accessibility to the images utilizing alt.
-added <hn> to increase accessibility and finability
+added <hn> to increase accessibility and findability
+The followind code was relocated to the .header in the style.css.
+p {
+    font-size: 16px;
+}
+after relocation the new code reads:
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    padding-top: 15px;
+    font-size: 16px;
+Removed the following code and relocated to .header div ul li.
+
+.header div ul {
+    list-style-type: none;
+}
+after relocation the new code reads:
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: none;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
